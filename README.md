@@ -1,6 +1,6 @@
 ## URL Uploader Bot
 ---
-<img src="https://te.legra.ph/file/1874e41aa32e5cb10ba9e.jpg" align="center" width="800" height="800"/>
+<img src="https://te.legra.ph/file/1874e41aa32e5cb10ba9e.jpg" align="center"/>
 
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
