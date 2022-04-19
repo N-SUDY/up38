@@ -1,6 +1,6 @@
 ## URL Uploader Bot
 ---
-![imagegfgs](https://user-images.githubusercontent.com/95665347/164028536-357f24a5-4c40-4b0c-8aba-6bc883e641b7.jpeg)
+<p align="center">![imagegfgs](https://user-images.githubusercontent.com/95665347/164028536-357f24a5-4c40-4b0c-8aba-6bc883e641b7.jpeg)</p>
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
