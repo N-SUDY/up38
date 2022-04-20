@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/darkurlupload_bot",
-  "website": "https://github.com/DARKEMPIRESL/URLUPLOADERBOT",
-  "repository": "https://github.com/DARKEMPIRESL/URLUPLOADERBOT",
+  "website": "https://github.com/DARKEMPIRESL/darkurlupload_bot",
+  "repository": "https://github.com/DARKEMPIRESL/darkurlupload_bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
