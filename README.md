@@ -17,8 +17,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-<p align="center"><a href="https://heroku.com/deploy?"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45" alt="Deploy To Heroku"/></a></p>
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
 
 
