@@ -13,7 +13,7 @@ git+https://github.com/TgRenameBot/ytdl
 #py v0.16
 #https://github.com/Esther-Lopez/py-16/archive/asyncio.zip
 #py v0.18
-https://github.com/Esther-Lopez/Pyrogram-1.0.7/archive/refs/heads/asyncio.zip
+#https://github.com/Esther-Lopez/Pyrogram-1.0.7/archive/refs/heads/asyncio.zip
 
 
 #git+https://github.com/Esther-Lopez/ytdl.git
@@ -29,7 +29,7 @@ tgcrypto
 sqlalchemy==1.3.22
 psycopg2-binary
 feedparser
-
+pyrogram==1.4.12
 
 #youtube-dl
 # git+git://github.com/MoviezHood/youtube-dl-2.git
